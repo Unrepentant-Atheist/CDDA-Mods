@@ -24,7 +24,6 @@
     "vision_night": 10,
     "path_settings": { "max_dist": 10 },
     "revert_to_itype": "bot_mudgolem",
-    "harvest": "mon_mudgolem",
     "flags": [ "SEES", "HEARS", "NO_BREATHE", "PATH_AVOID_DANGER_1" ]
   },
   {
@@ -53,7 +52,6 @@
     "vision_night": 10,
     "path_settings": { "max_dist": 10 },
     "revert_to_itype": "bot_woodgolem",
-    "harvest": "mon_woodgolem",
     "flags": [ "SEES", "HEARS", "NO_BREATHE", "PATH_AVOID_DANGER_1" ]
   },
   {
@@ -83,7 +81,6 @@
     "vision_night": 10,
     "path_settings": { "max_dist": 10 },
     "revert_to_itype": "bot_treegolem",
-    "harvest": "mon_treegolem",
     "flags": [ "SEES", "HEARS", "NO_BREATHE", "PATH_AVOID_DANGER_1" ]
   },
   {
@@ -142,7 +139,6 @@
     "vision_night": 10,
     "path_settings": { "max_dist": 10 },
     "revert_to_itype": "bot_rockgolem",
-    "harvest": "mon_rockgolem",
     "flags": [ "SEES", "HEARS", "NO_BREATHE", "PATH_AVOID_DANGER_1" ]
   },
   {
@@ -171,7 +167,6 @@
     "vision_night": 10,
     "path_settings": { "max_dist": 10 },
     "revert_to_itype": "bot_irongolem",
-    "harvest": "mon_irongolem",
     "flags": [ "SEES", "HEARS", "NO_BREATHE", "PATH_AVOID_DANGER_1" ]
   },
   {
@@ -200,7 +195,6 @@
     "vision_night": 10,
     "path_settings": { "max_dist": 10 },
     "revert_to_itype": "bot_lavagolem",
-    "harvest": "mon_lavagolem",
     "flags": [ "SEES", "HEARS", "NO_BREATHE", "PATH_AVOID_DANGER_1" ]
   }
 ]
