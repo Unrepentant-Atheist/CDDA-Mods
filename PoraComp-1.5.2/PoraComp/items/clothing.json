@@ -19,9 +19,9 @@
       "type": "holster",
       "holster_prompt": "Stash UPS",
       "holster_msg": "You stash your %s.",
-      "max_volume": 10,
-	  "multi": 4,
-      "draw_cost": 40,
+      "max_volume": "3000 ml",
+	  "multi": 6,
+      "draw_cost": 120,
       "flags": [ "UPS_MAG" ]
     },
     "flags": [ "WATER_FRIENDLY" ]
